@@ -41,7 +41,7 @@ include (CMakePackageConfigHelpers)
 include (CMakePushCheckState)
 include (CPack)
 include (CTest)
-include (DetermineGflagsNamespace)
+# include (DetermineGflagsNamespace)
 include (GNUInstallDirs)
 
 set (CMAKE_DEBUG_POSTFIX d)
